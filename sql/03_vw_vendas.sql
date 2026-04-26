@@ -31,7 +31,7 @@ SELECT
     [Latitude]                                                      AS latitude,
     [Longitude]                                                     AS longitude,
 
-    -- Logística
+    -- LogÃ­stica
     [Type]                                                          AS tipo_transacao,
     [Shipping Mode]                                                 AS modal_envio,
     [Delivery Status]                                               AS status_entrega,
